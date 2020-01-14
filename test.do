@@ -11,5 +11,5 @@ gen x=0.5*y + e
 reg y x
 
 sum y x e
-kdensity y //test
+kdensity y //test #2
 
