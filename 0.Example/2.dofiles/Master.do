@@ -9,7 +9,7 @@ if (lower("`c(username)'")=="wb378870"){
 	global main "C:\Users\wb378870\OneDrive - WBG\000.EquityPolicyLab\0.Example" //Paul Corral's Path
 }
 else{ //Place your path on the file below
-	global main 
+	global main "C:\Users\wb495141\Documents\GitHub\test\0.Example"
 }
 global dtapath 		"$main/1.data"
 global dopath  		"$main/2.dofiles"
